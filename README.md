@@ -11,4 +11,4 @@ If you care, my pronouns are He/Him but I truly don't care what you use as long 
 - [TOHE](https://github.com/0xDrMoe/TownofHost-Enhanced) (Admittedly very little)
 
 
-![My GitHub Statistics](https://github-readme-stats-sigma-five.vercel.app/api?username=pyro0tv&show_icons=true&theme=tokyonight)
+![My GitHub Statistics](https://github-readme-stats-sigma-five.vercel.app/api?username=notpyro404&show_icons=true&theme=tokyonight)
