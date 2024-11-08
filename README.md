@@ -9,9 +9,9 @@ If you care, my pronouns are He/Him but I truly don't care what you use as long 
 - [Visit Here](https://sites.google.com/view/notpyro404)!
 
 ## Things that I help out with/work on:
-### Town of Host Enhanced:
-- [Website](https://tohe.weareten.ca) (Website Maintainer) [GitHub](https://github.com/EnhancedNetwork/TOHE-Docs)
-- [TOHE](https://github.com/EnhancedNetwork/TownofHost-Enhanced) (Sloth Add-On + Small Text Updates)
+### The Enhanced Network:
+- [TOHE Documentation Website](https://tohe.weareten.ca) (Website Maintainer) [GitHub](https://github.com/EnhancedNetwork/TOHE-Docs)
+- [Town of Host: Enhanced](https://github.com/EnhancedNetwork/TownofHost-Enhanced) (Sloth Add-On + Small Text Updates)
 
 
 ![My GitHub Statistics](https://github-readme-stats-sigma-five.vercel.app/api?username=notpyro404&show_icons=true&theme=tokyonight)
